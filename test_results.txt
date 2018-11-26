@@ -1,0 +1,1202 @@
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.027
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.011
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.016
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.01
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.039
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.01
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.029
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.014
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.012
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 13 is 0.013
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.132
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.016
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.012
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.013
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.016
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.035
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.069
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.012
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.017
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 113 is 0.014
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.015
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.015
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.098
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.055
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.015
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.016
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.063
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.032
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.04
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 213 is 0.033
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.042
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.043
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.019
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.032
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.048
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.02
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.019
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.035
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.029
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 313 is 0.04
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.021
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.025
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.03
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.025
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.023
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.021
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.024
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.025
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.059
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 413 is 0.03
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.024
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.043
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.026
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.028
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.033
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.027
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.026
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.025
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.028
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 513 is 0.144
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.095
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.048
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.039
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.046
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.029
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.064
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.028
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.057
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.028
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 613 is 0.035
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.044
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.053
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.034
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.064
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.04
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.036
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.058
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.03
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.041
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 713 is 0.031
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.066
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.109
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.036
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.035
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.076
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.036
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.035
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.036
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.063
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 813 is 0.036
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.038
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.041
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.094
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.056
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.039
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.039
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.048
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.037
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.087
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 4 states and string length 913 is 0.067
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 96.543
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 0.016
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 0.032
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 0.013
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 0.025
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 0.048
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 0.054
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 0.024
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 0.01
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 13 is 0.031
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.402
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.059
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.023
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.049
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.041
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.058
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.014
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.017
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.015
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 113 is 0.556
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 0.022
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 1.582
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 0.032
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 1.743
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 0.032
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 0.017
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 1.783
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 0.023
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 0.026
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 213 is 0.024
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 3.879
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 4.004
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 0.037
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 0.029
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 0.044
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 4.184
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 0.032
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 2.943
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 0.029
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 313 is 0.028
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 0.052
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 0.027
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 0.038
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 7.523
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 9.399
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 0.057
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 8.202
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 0.048
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 6.821
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 413 is 0.031
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 0.027
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 12.27
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 0.055
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 0.053
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 0.046
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 0.031
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 0.048
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 14.261
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 14.286
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 513 is 0.073
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 0.032
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 26.47
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 0.066
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 0.041
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 0.127
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 0.047
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 17.953
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 0.03
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 0.028
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 613 is 0.155
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 0.077
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 33.27
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 0.047
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 0.036
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 0.044
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 0.035
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 0.062
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 37.445
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 0.031
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 713 is 39.847
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 0.033
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 0.035
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 44.287
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 0.076
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 0.034
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 0.037
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 0.041
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 0.044
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 0.037
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 813 is 49.955
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 0.049
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 0.051
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 0.056
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 0.042
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 81.872
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 0.08
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 74.537
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 0.097
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 72.904
+
+-------------------------------------
+
+Test results: 
+
+Execution time for 5 states and string length 913 is 0.07
+
+-------------------------------------
+
+Test results: 
+

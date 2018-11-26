@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1543242512 source:d:\enisa\projects\turingmachine\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstdlib>
+	"TuringMachine.h"
+
+1542834981 d:\enisa\projects\turingmachine\include\turingmachine.h
+	<iostream>
+	<vector>
+	<fstream>
+	<ctime>
+	<cstdlib>
+
+1543241810 source:d:\enisa\projects\turingmachine\src\turingmachine.cpp
+	"TuringMachine.h"
+	<iostream>
+	<fstream>
+	<algorithm>
+
